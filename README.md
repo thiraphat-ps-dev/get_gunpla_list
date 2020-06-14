@@ -61,3 +61,6 @@ Run get_gunpla_list.py with command
 ```bash
 python get_gunpla_list.py
 ```
+
+Result
+![image info](data.png)
